@@ -1,2 +1,2 @@
 # SolarAndLunarCalender
-阴历阳历互相转换
+公历、农历 转换
