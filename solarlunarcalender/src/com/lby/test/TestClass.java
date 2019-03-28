@@ -12,7 +12,7 @@ public class TestClass {
 
 	@Test
 	public void test1() {
-		// 123
+		// 123b
 		Solar date2Solar = DateSolarLunar.date2Solar(new Date());
 		System.out.println("今日阳历：" + DateSolarLunar.dump(date2Solar));
 		Lunar date2Lunar = DateSolarLunar.date2Lunar(new Date());
